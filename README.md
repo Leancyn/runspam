@@ -1,6 +1,6 @@
 Wellcome TO My Repository Dude !!!
 > Just Go ONN !!
-### <p style"color:red">Spammer BOT SMS & WHatsAPP (BOT-OTP),</p>
+### Spammer BOT SMS & WHatsAPP (BOT-OTP)
 ___________________________________
 
 ### <p style="color:red">YANG Di bTUHKAN !!,</p>
