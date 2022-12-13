@@ -3,7 +3,7 @@ Just Go ONN !!
 
 ___________________________________
 
-### <p style="color:red">NOTE:</p> YANG Di bTUHKAN !!,
+### <p style="color:red">YANG Di bTUHKAN !!,</p>
 
 ```sh
 sudo apt install python 
