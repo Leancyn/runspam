@@ -3,11 +3,12 @@ Just Go ONN !!
 
 ___________________________________
 
-- ** YAANG DI BUTUHKAN **
+### <p style="color:red">NOTE:</p> YANG Di bTUHKAN !!,
+
 ```sh
 sudo apt install python 
 ```
-- ** Kalau Python Tidk Bisa CobaLAH Python3
+- ** Kalau Python Tidk Bisa CobaLAH Python3 **
 ```sh
 sudo apt install python3
 ```
@@ -48,5 +49,5 @@ ___________________________________
 
 COMP : LINUX & TERMUX 
 
-CUMA ITU !!   ~' )()( '~
+CUMA ITU aJA!!   ~' )()( '~
 ___________________________________
