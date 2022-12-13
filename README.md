@@ -9,7 +9,7 @@ ___________________________________
 
 - **Clone Repo**
 ```bash
-[git clone https://github.com/Leancyn/runspam]
+git clone https://github.com/Leancyn/runspam.git
 ```
 - **Masuk kedalam directory**
 ```sh
