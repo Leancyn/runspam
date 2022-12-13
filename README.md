@@ -1,11 +1,26 @@
 Wellcome TO My Repository Dude !!!
 Just Go ONN !!
 
+___________________________________
+
+- ** YAANG DI BUTUHKAN **
+```sh
+sudo apt install python 
+```
+- ** Kalau Python Tidk Bisa Coba Python3
+```sh
+sudo apt install python3
+```
+```sh
+sudo apt install git
+```
+<br>
+
 
 
 ___________________________________
 
-### <p style="color:red">NOTE:</p> Jika kamu Programmer yang memiliki [GIT](https://git-scm.com/downloads) maka,
+### <p style="color:red">NOTE:</p> LU Programer Install [GIT] LAHH(https://git-scm.com/downloads),
 
 - **Clone Repo**
 ```bash
