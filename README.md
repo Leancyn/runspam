@@ -8,10 +8,11 @@ ___________________________________
 ```sh
 sudo apt install python 
 ```
-- ** Kalau Python Tidk Bisa CobaLAH Python3 **
+-  Kalau Python Tidk Bisa CobaLAH Python3 
 ```sh
 sudo apt install python3
 ```
+- Selanjutnya INI !
 ```sh
 sudo apt install git
 ```
