@@ -277,22 +277,20 @@ def start(nomor,x): # Def Untuk Start Tools
         jam(nomor)
         
 def main():
-    print(f""" 
-
-
-{ungu}        ██████╗ ████████╗██████╗       ██████╗  ██████╗ ████████╗
-             ██╔═══██╗╚══██╔══╝██╔══██╗      ██╔══██╗██╔═══██╗╚══██╔══╝
-             ██║   ██║   ██║   ██████╔╝█████╗██████╔╝██║   ██║   ██║  {biru} 
- {kuning}    ██║   ██║   ██║   ██╔═══╝ ╚════╝██╔══██╗██║   ██║   ██║   
-             ╚██████╔╝   ██║   ██║           ██████╔╝╚██████╔╝   ██║   
-              ╚═════╝    ╚═╝   ╚═╝           ╚═════╝  ╚═════╝    ╚═╝                                                           
-
-
-__________________________________________
-Welcome TO My Shit !!
-Author      : {hijau}Leancyn
+    print(f"""
+{biru}
+██████╗ ████████╗██████╗       ██████╗  ██████╗ ████████╗
+██╔═══██╗╚══██╔══╝██╔══██╗      ██╔══██╗██╔═══██╗╚══██╔══╝
+██║  {kuning} ██║   ██║   ██████╔╝█████╗██████╔╝██║   ██║   ██║ {ungu}
+██║   ██║   ██║   ██╔═══╝ ╚════╝██╔══██╗██║   ██║   ██║
+╚██████╔╝   ██║   ██║ {abu}          ██████╔╝╚██████╔╝   ██║
+ ╚═════╝    ╚═╝   ╚═╝           ╚═════╝  ╚═════╝    ╚═╝
+{abu}
+{putih}__________________________________________
+{hijau}Welcome TO My Shit !!{kuning}
+Author      : {ungu}Leancyn{kuning}
 Github      : {merah}github.com/Leancyn
-__________________________________________""")
+{putih}__________________________________________""")
     # Contoh : 089508226367
     autoketik(nomor := input(f"{abu}Masukkan Nomor Target: {hijau}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
@@ -300,6 +298,6 @@ __________________________________________""")
 try:
     main()
 except KeyboardInterrupt:
-    autoketik(f"""{merah}Batal
-{hijau}--Keluar Dari Tools--""")
+    autoketik(f"""{merah}CANceLL
+{hijau}-- LOh Kok PERGI {putih}#_# {hijau}--""")
     sys.exit()
