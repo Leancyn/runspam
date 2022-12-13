@@ -19,9 +19,9 @@ cd runspam
 ```sh
 pip install requirements.txt
 ```
-- **start.py**
+- **Run A PrograM**
 ```bash
-start.py
+python3 start.py
 ```
 <br>
 
