@@ -70,7 +70,7 @@ def tanya(nomor):
             sys.exit
 
 def jam(nomor): # Don't Remove Code !!!!
-        autoketik("Program Berjalan!")
+        autoketik("PROGramMM ISs RUnning!!")
         b       =   nomor[1:12] # Contoh: nomor = 89508226367
         c       =   "62" + b    # Contoh: nomor = 6289508226367
         rto     =   0           # Flag ketika memasuki RTO maka akan program akan otomatis menunda proses selama 80 detik
