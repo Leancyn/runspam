@@ -277,9 +277,22 @@ def start(nomor,x): # Def Untuk Start Tools
         jam(nomor)
         
 def main():
-    print(f"""Welcome TO My Shit !!
+    print(f""" 
+
+
+{ungu}        ██████╗ ████████╗██████╗       ██████╗  ██████╗ ████████╗
+             ██╔═══██╗╚══██╔══╝██╔══██╗      ██╔══██╗██╔═══██╗╚══██╔══╝
+             ██║   ██║   ██║   ██████╔╝█████╗██████╔╝██║   ██║   ██║  {biru} 
+ {kuning}    ██║   ██║   ██║   ██╔═══╝ ╚════╝██╔══██╗██║   ██║   ██║   
+             ╚██████╔╝   ██║   ██║           ██████╔╝╚██████╔╝   ██║   
+              ╚═════╝    ╚═╝   ╚═╝           ╚═════╝  ╚═════╝    ╚═╝                                                           
+
+
+__________________________________________
+Welcome TO My Shit !!
 Author      : {hijau}Leancyn
-Github      : {merah}github.com/Leancyn""")
+Github      : {merah}github.com/Leancyn
+__________________________________________""")
     # Contoh : 089508226367
     autoketik(nomor := input(f"{abu}Masukkan Nomor Target: {hijau}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
