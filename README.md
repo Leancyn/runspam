@@ -3,22 +3,29 @@ Just Go ONN !!
 
 
 
-__________________________
+___________________________________
 
 SETELAH MASUK KE REPO
-pip install requests
-pip install bs4 
-pip install urlib3
-pip install os 
+$ pip install requests
+$ pip install bs4 
+$ pip install urlib3
+$ pip install os 
 
-__________________________
+ATAU LEBIH MUDAHNYA 
+SETELAH MASUK REPO RUN 
+COMMAND INI YA !
+
+$ pip install -r requirements.txt
+
+___________________________________
 
 NOTE : FULL BAHASA PYTHON
 
-__________________________
+___________________________________
 
 
 COMP : LINUX
      : TERMUX
 
 CUMA ITU !!   ~' )()( '~
+___________________________________
