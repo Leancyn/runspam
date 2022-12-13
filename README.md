@@ -44,10 +44,6 @@ python3 start.py
 
 ___________________________________
 
-NOTE : FULL BAHASA PYTHON
-
-___________________________________
-
 COMP : LINUX & TERMUX 
 
 CUMA ITU aJA!!   ~' )()( '~
