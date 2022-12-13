@@ -7,7 +7,7 @@ ___________________________________
 ```sh
 sudo apt install python 
 ```
-- ** Kalau Python Tidk Bisa Coba Python3
+- ** Kalau Python Tidk Bisa CobaLAH Python3
 ```sh
 sudo apt install python3
 ```
@@ -20,7 +20,7 @@ sudo apt install git
 
 ___________________________________
 
-### <p style="color:red">NOTE:</p> LU Programer Install [GIT] LAHH(https://git-scm.com/downloads),
+### <p style="color:red">NOTE:</p> LU iTU Programer Install [GIT](https://git-scm.com/downloads)  LAHH !!,
 
 - **Clone Repo**
 ```bash
