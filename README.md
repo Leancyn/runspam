@@ -32,8 +32,9 @@ NOTE : FULL BAHASA PYTHON
 ___________________________________
 
 
-COMP : LINUX
-     : TERMUX
+<p COMP : LINUX
+        : TERMUX >
+</p>
 
 CUMA ITU !!   ~' )()( '~
 ___________________________________
