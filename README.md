@@ -5,17 +5,25 @@ Just Go ONN !!
 
 ___________________________________
 
-SETELAH MASUK KE REPO
-$ pip install requests
-$ pip install bs4 
-$ pip install urlib3
-$ pip install os 
+### <p style="color:red">NOTE:</p> Jika kamu Programmer yang memiliki [GIT](https://git-scm.com/downloads) maka,
 
-ATAU LEBIH MUDAHNYA 
-SETELAH MASUK REPO RUN 
-COMMAND INI YA !
-
-$ pip install -r requirements.txt
+- **Clone Repo**
+```bash
+[git clone https://github.com/Leancyn/runspam]
+```
+- **Masuk kedalam directory**
+```sh
+cd runspam
+```
+- **Jalankan Requirement Modul di Terminal**
+```sh
+pip install requirements.txt
+```
+- **start.py**
+```bash
+start.py
+```
+<br>
 
 ___________________________________
 
